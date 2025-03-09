@@ -1,0 +1,47 @@
+.heading{
+    text-align: center;
+}
+.para{
+    margin-left: 155px;
+    font-size: 100px;
+}
+.buttons{
+    margin-left: 165px; 
+    margin-bottom: 10px;
+}
+.button{
+    margin-left: 150px;
+   
+}
+.b1{
+    text-align: center;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+.b2{
+    text-align: center;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+.b3{
+    text-align: center;
+    background-color: silver;
+    color: white;
+    border-radius: 5px;
+}
+
+.b4{
+    text-align: center;
+    background-color: skyblue;
+    color: white;
+    border-radius: 5px;
+}
+.b5{
+    text-align: center;
+    background-color: violet;
+    color: white;
+    border-radius: 5px;
+}
